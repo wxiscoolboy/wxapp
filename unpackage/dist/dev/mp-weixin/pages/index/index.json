@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "三金电影",
+  "usingComponents": {
+    "uni-rate": "/node-modules/@dcloudio/uni-ui/lib/uni-rate/uni-rate"
+  }
+}

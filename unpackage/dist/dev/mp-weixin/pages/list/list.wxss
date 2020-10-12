@@ -1,0 +1,42 @@
+.yearlist.data-v-7d5e07c6 {
+  margin: 15rpx;
+  padding: 15rpx;
+}
+.yearlist image.data-v-7d5e07c6 {
+  width: 100%;
+  height: 340rpx;
+}
+.slist.data-v-7d5e07c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 0 20rpx;
+  margin-bottom: 20rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.slist image.data-v-7d5e07c6 {
+  width: 200rpx;
+  height: 200rpx;
+}
+.slist .mname.data-v-7d5e07c6 {
+  height: 160rpx;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  padding: 20rpx;
+  border: 1px solid #808080;
+  border-left: none;
+  box-sizing: border-box;
+}
+.slist .mname .rank.data-v-7d5e07c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-size: 14px;
+}
+.slist .mname .soc.data-v-7d5e07c6 {
+  color: #EFCB97;
+}
+
